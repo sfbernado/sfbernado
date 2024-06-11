@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=9400A1&vCenter=true&width=500&height=70&duration=4000&lines=Hello%2C+There!%F0%9F%91%8B;I'm+Ten!;Nice+To+Meet+You!%F0%9F%98%89;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=b500b5&vCenter=true&width=500&height=70&duration=4000&lines=Hello%2C+There!%F0%9F%91%8B;I'm+Ten!;Nice+To+Meet+You!%F0%9F%98%89;" />
 </h1>
 
 <p align="center">
@@ -14,12 +14,14 @@
 
 <h2 align="center">About Me</h2>
 
+<br>
+
 <div align="center">
   🎓 I'm an undergraduate student of Informatics Engineering at the Faculty of Computer Science, Brawijaya University
   <br/>
   🧑‍🏫 I'm currently working as a laboratory teaching assistant of Introduction to Machine Learning
   <br>
-  🌱 I'm on track for learning more about Artificial Intelligence (AI)
+  🌱 I'm on track to learn more about Artificial Intelligence (AI)
   <br>
   💡 My interests lie in data ecosystem fields
   <br>
@@ -41,6 +43,8 @@
 <hr/>
 
 <h2 align="center">Technologies That I Use</h2>
+
+<br>
 
 <p align="center">
   <div align="center">
@@ -69,3 +73,19 @@
     <code><a href="https://developer.android.com/studio"><img height="40" src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" alt="android studio"></a></code> 
   </div>
 </p>
+
+<hr/>
+
+<h2 align="center">My Stats</h2>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sfbernado&theme=transparent&border_radius=10&background=15141B&border=FF79FF&ring=FFCA85&fire=FFCA85&stroke=FF79FF&currStreakNum=00C647&sideNums=00C647&currStreakLabel=B500B5&sideLabels=B500B5&dates=00C647&excludeDaysLabel=FFCA85">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=sfbernado&show_icons=true&count_private=true&bg_color=15141b&border_color=ff79ff&border_radius=10&title_color=b500b5&text_color=00c647&icon_color=ffca85&rank_icon=github&include_all_commits=true">
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfbernado&show_icons=true&count_private=true&bg_color=15141b&border_color=ff79ff&border_radius=10&title_color=b500b5&text_color=00c647&icon_color=ffca85&rank_icon=github&include_all_commits=true&langs_count=20&layout=compact">
+</div>
+
+<hr/>
