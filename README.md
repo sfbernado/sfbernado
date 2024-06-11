@@ -29,9 +29,11 @@
 
   <p align="center">
     <a href="mailto:stanislausfb@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/stanislausfb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/stanislausfb" target="blank"><img align="center" src="https://img.shields.io/badge/Stanislaus Frans Bernado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/stanislausfb" target="blank"><img align="center" src="https://img.shields.io/badge/stanislausfb-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+    &nbsp;&nbsp;
     <a href="https://www.github.com/sfbernado" target="blank"><img align="center" src="https://img.shields.io/badge/sfbernado-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
   </p>
 </div>
